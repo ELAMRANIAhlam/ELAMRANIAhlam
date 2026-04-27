@@ -49,6 +49,19 @@
 
 ---
 
+## 💼 Expériences
+
+- **Développeuse Full‑Stack / IA – ESTO Oujda (2024)**  
+  YOLOv8 • OpenCV • Python — Détection et comptage d’objets en temps réel
+
+- **Développeuse Python – ENSAO Oujda (2023)**  
+  Application desktop pour gestion documentaire et automatisation des processus
+
+- **Développeuse – SupMTI Oujda (2022)**  
+  Conception BD relationnelle et requêtes SQL de reporting
+
+---
+
 ## 📊 Statistiques GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)  
