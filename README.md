@@ -21,6 +21,7 @@
 ![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
 ![C#](https://img.shields.io/badge/Code-C%23-purple?logo=dotnet)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![Dart](https://img.shields.io/badge/Code-Dart-blue?logo=dart)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 
 ### 🎨 Frontend & Mobile
