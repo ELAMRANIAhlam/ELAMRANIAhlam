@@ -20,7 +20,7 @@ Spring Boot • ASP.NET Core (.NET) • FastAPI • React.js • Flutter
 API REST • Microservices • MVC • Architecture logicielle
 
 ### 🗄️ Bases de données
-PostgreSQL • MySQL • SQL • Firebase Firestore
+PostgreSQL • MySQL • SQL • Firebase Firestore • Oracle
 
 ### 🛠️ DevOps & Outils
 Git • GitHub • Docker • Linux • VS Code • PyCharm
@@ -71,6 +71,6 @@ YOLOv8 • OpenCV • Python
 ---
 
 ## 📫 Me contacter
-📧 elamrani.ahlam@email.com  
+📧 ahlam.elamrani71@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahlam-el-amrani)  
 💻 [GitHub](https://github.com/ELAMRANIAhlam)
