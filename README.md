@@ -74,3 +74,32 @@ YOLOv8 • OpenCV • Python
 📧 ahlam.elamrani71@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahlam-el-amrani)  
 💻 [GitHub](https://github.com/ELAMRANIAhlam)
+
+
+
+
+
+
+
+
+
+
+## 🛠️ Compétences
+
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![C#](https://img.shields.io/badge/Code-C%23-purple?logo=dotnet)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
+![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-blue?logo=dotnet)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-lightblue?logo=flutter)
+
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/DB-MySQL-orange?logo=mysql)
+![Firebase](https://img.shields.io/badge/DB-Firebase-yellow?logo=firebase)
+
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
+![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)
