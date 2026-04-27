@@ -71,7 +71,6 @@ YOLOv8 • OpenCV • Python
 ---
 
 ## 📫 Me contacter
-📧 ahlam.elamrani71@email.com  
-🔗 https://www.linkedin.com/in/ahlam-el-amrani/
-
-
+📧 elamrani.ahlam@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahlam-el-amrani)  
+💻 [GitHub](https://github.com/ELAMRANIAhlam)
