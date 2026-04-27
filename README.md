@@ -1,3 +1,99 @@
+<!-- Bannière -->
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ahlam%20EL%20AMRANI&fontSize=40&fontAlignY=35)
+
+# 👋 Bonjour, je suis Ahlam EL AMRANI
+
+🎓 Étudiante ingénieure en Génie Informatique – Spécialisation Backend  
+💻 Passionnée par : API REST • Microservices • Docker • Vision par ordinateur  
+🚀 Objectif : Stage PFA en développement logiciel pour contribuer à des projets innovants
+
+---
+
+## 🛠️ Compétences
+
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![C#](https://img.shields.io/badge/Code-C%23-purple?logo=dotnet)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
+![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-blue?logo=dotnet)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-lightblue?logo=flutter)
+
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/DB-MySQL-orange?logo=mysql)
+![Firebase](https://img.shields.io/badge/DB-Firebase-yellow?logo=firebase)
+
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
+![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)
+
+---
+
+## 🚀 Projets Académiques
+
+### 🦠 Plateforme de Surveillance Épidémiologique  
+**Python | Spring Boot | React | PostgreSQL | API REST**  
+- Analyse multi‑sources (sanitaire + météo)  
+- APIs REST pour collecte et centralisation  
+- Visualisations interactives + système d’alerte  
+
+### 💬 ChatApp Light – Messagerie Temps Réel  
+**Flutter | Firebase | Riverpod**  
+- Authentification sécurisée + présence en ligne  
+- Synchronisation temps réel via Firestore  
+- UI moderne (dark mode, gestion de profil)  
+
+---
+
+## 📊 Statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELAMRANIAhlam&layout=compact&theme=radical)
+
+---
+
+## 📫 Me contacter
+
+📧 elamrani.ahlam@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/elamrani-ahlam)  
+💻 [GitHub](https://github.com/ELAMRANIAhlam)
+
+---
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Bonjour, je suis Ahlam EL AMRANI
 
 🎓 Étudiante ingénieure en 4ème année – Génie Informatique  
