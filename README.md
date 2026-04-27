@@ -45,112 +45,6 @@
 
 ### 🦠 Plateforme de Surveillance Épidémiologique  
 **Python | Spring Boot | React | PostgreSQL | API REST**  
-- Analyse multi‑sources (sanitaire + météo)  
-- APIs REST pour collecte et centralisation  
-- Visualisations interactives + système d’alerte  
-
-### 💬 ChatApp Light – Messagerie Temps Réel  
-**Flutter | Firebase | Riverpod**  
-- Authentification sécurisée + présence en ligne  
-- Synchronisation temps réel via Firestore  
-- UI moderne (dark mode, gestion de profil)  
-
----
-
-## 💼 Expériences
-
-- **Développeuse Full‑Stack / IA – ESTO Oujda (2024)**  
-  YOLOv8 • OpenCV • Python — Détection et comptage d’objets en temps réel
-
-- **Développeuse Python – ENSAO Oujda (2023)**  
-  Application desktop pour gestion documentaire et automatisation des processus
-
-- **Développeuse – SupMTI Oujda (2022)**  
-  Conception BD relationnelle et requêtes SQL de reporting
-
----
-
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELAMRANIAhlam&layout=compact&theme=radical)
-
----
-
-## 📫 Me contacter
-📧 ahlam.elamrani71@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahlam-el-amrani)  
-💻 [GitHub](https://github.com/ELAMRANIAhlam)
----
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Bonjour, je suis Ahlam EL AMRANI
-
-🎓 Étudiante ingénieure en 4ème année – Génie Informatique  
-💼 Spécialisation : Développement Backend & Architecture Logicielle  
-📍 Berkane / Oujda, Maroc  
-
-Passionnée par le développement backend, les API REST, les microservices et les architectures distribuées.  
-Je travaille principalement avec **Java, Python, C#, Spring Boot, ASP.NET Core, React.js** et les bases de données **PostgreSQL / MySQL**.  
-Actuellement à la recherche d’un **stage PFA** pour contribuer à des projets techniques à forte valeur ajoutée.
-
----
-
-## 🔧 Compétences Techniques
-
-### 🖥️ Langages
-Java • Python • C# • JavaScript
-
-### ⚙️ Frameworks & Backend
-Spring Boot • ASP.NET Core (.NET) • FastAPI • React.js • Flutter  
-API REST • Microservices • MVC • Architecture logicielle
-
-### 🗄️ Bases de données
-PostgreSQL • MySQL • SQL • Firebase Firestore • Oracle
-
-### 🛠️ DevOps & Outils
-Git • GitHub • Docker • Linux • VS Code • PyCharm
-
-### 🤖 Vision par Ordinateur
-YOLOv8 • OpenCV • Python
-
----
-
-## 🚀 Projets Académiques
-
-### 🦠 Plateforme de Surveillance Épidémiologique  
-**Python | Spring Boot | React | PostgreSQL | API REST**  
 - Analyse épidémiologique multi‑sources (sanitaire + météo)  
 - APIs REST pour collecte et centralisation des données  
 - EDA, nettoyage, fusion de datasets (Pandas, Matplotlib)  
@@ -183,7 +77,9 @@ YOLOv8 • OpenCV • Python
 ---
 
 ## 📊 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELAMRANIAhlam&layout=compact&theme=radical)
 
 ---
 
@@ -191,9 +87,7 @@ YOLOv8 • OpenCV • Python
 📧 ahlam.elamrani71@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahlam-el-amrani)  
 💻 [GitHub](https://github.com/ELAMRANIAhlam)
+---
 
-
-
-
-
-
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer)
