@@ -4,8 +4,9 @@
 # 👋 Bonjour, je suis Ahlam EL AMRANI
 
 🎓 Étudiante ingénieure en Génie Informatique – Spécialisation Backend  
-💻 Passionnée par : API REST • Microservices • Docker • Vision par ordinateur  
-🚀 Objectif : Stage PFA en développement logiciel pour contribuer à des projets innovants
+💻 Passionnée par le développement backend, les API REST, les microservices et les architectures distribuées.  
+🛠️ Je travaille principalement avec **Java, Python, C#, Spring Boot, ASP.NET Core, React.js** et les bases de données **PostgreSQL / MySQL / Oracle**.  
+🚀 Actuellement à la recherche d’un **stage PFA** pour contribuer à des projets techniques à forte valeur ajoutée.
 
 ---
 
