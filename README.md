@@ -12,6 +12,12 @@
 
 ## 🛠️ Compétences
 
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
+![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-blue?logo=dotnet)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-teal?logo=fastapi)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-lightblue?logo=flutter)
+
 ![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
 ![C#](https://img.shields.io/badge/Code-C%23-purple?logo=dotnet)
