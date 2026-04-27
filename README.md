@@ -3,7 +3,7 @@
 
 # 👋 Bonjour, je suis Ahlam EL AMRANI
 
-🎓 Étudiante ingénieure en Génie Informatique – Spécialisation Backend  
+🎓 Étudiante ingénieure en Génie Informatique – **Backend Developer (Spring Boot / .NET)**
 💻 Passionnée par le développement backend, les API REST, les microservices et les architectures distribuées.  
 🛠️ Je travaille principalement avec **Java, Python, C#, Spring Boot, ASP.NET Core, React.js** et les bases de données **PostgreSQL / MySQL / Oracle**.  
 🚀 Actuellement à la recherche d’un **stage PFA** pour contribuer à des projets techniques à forte valeur ajoutée.
@@ -12,28 +12,28 @@
 
 ## 🛠️ Compétences
 
+### ⚙️ Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
 ![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-blue?logo=dotnet)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-teal?logo=fastapi)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-lightblue?logo=flutter)
 
+### 🖥️ Langages
 ![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
 ![C#](https://img.shields.io/badge/Code-C%23-purple?logo=dotnet)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
-![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET%20Core-blue?logo=dotnet)
+### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Flutter](https://img.shields.io/badge/Mobile-Flutter-lightblue?logo=flutter)
 
+### 🗄️ Bases de données
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-orange?logo=mysql)
-![Firebase](https://img.shields.io/badge/DB-Firebase-yellow?logo=firebase)
 ![Oracle](https://img.shields.io/badge/DB-Oracle-red?logo=oracle)
+![Firebase](https://img.shields.io/badge/DB-Firebase-yellow?logo=firebase)
 
-
+### 🛠️ DevOps & Outils
 ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
 ![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)
