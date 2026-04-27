@@ -78,9 +78,6 @@ YOLOv8 • OpenCV • Python
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELAMRANIAhlam&layout=compact&theme=radical)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=ELAMRANIAhlam&show_icons=true&theme=radical)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELAMRANIAhlam&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ELAMRANIAhlam&theme=radical)
