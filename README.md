@@ -6,8 +6,6 @@
 🎓 Élève ingénieure en dernière année de Génie Informatique (ENIAD) – **Développeuse Full‑Stack**  
 💻 Je conçois des API sécurisées, des architectures logicielles maintenables et des solutions autour de la donnée et de l'IA appliquée.  
 🛠️ Stack principale : **Java / Spring Boot, Python / FastAPI, React.js / Next.js, PostgreSQL**.  
-🤖 Stage récent chez **OpenSNZ Technology** sur un projet d'IA et de systèmes agentiques.  
-🚀 À la recherche d'un **stage de fin d'études (PFE) à partir de février 2027**.
 
 ---
 
