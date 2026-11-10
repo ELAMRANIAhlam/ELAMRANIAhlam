@@ -42,14 +42,15 @@ API REST • Microservices • Architecture hexagonale • CQRS • Event‑Driv
 ![OpenCV](https://img.shields.io/badge/Vision-OpenCV-green?logo=opencv)
 ![YOLOv8](https://img.shields.io/badge/Detection-YOLOv8-red)
 
-Machine Learning • Vision par ordinateur • Embeddings • Recherche sémantique • Bases vectorielles
+Machine Learning • Deep Learning • Vision par ordinateur <!-- • Embeddings • Recherche sémantique • Bases vectorielles -->
 
 ### 🛠️ DevOps & Outils
 ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions)
 ![SonarCloud](https://img.shields.io/badge/Quality-SonarCloud-orange?logo=sonarcloud)
 ![Git](https://img.shields.io/badge/Tools-Git-red?logo=git)
-![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux)
+<!-- ![Linux](https://img.shields.io/badge/OS-Linux-gray?logo=linux) -->
+
 
 ---
 
@@ -68,7 +69,7 @@ Machine Learning • Vision par ordinateur • Embeddings • Recherche sémanti
 - Modèles de prédiction ML / Deep Learning avec détection automatique de foyers (précision > 80 % sur données de test)  
 - Écosystème conteneurisé avec Docker Compose (3 services)  
 
-### 💬 ChatApp Light – Messagerie Temps Réel  
+### 💬 ChatApp Light – Messagerie Temps Réel 
 **Flutter | Firebase | Provider**  
 - Authentification sécurisée + présence en ligne  
 - Synchronisation temps réel via Firestore  
